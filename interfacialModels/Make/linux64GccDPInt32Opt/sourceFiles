@@ -1,0 +1,28 @@
+SOURCE = \
+dragModels/dragModel/dragModel.C \
+dragModels/dragModel/newDragModel.C \
+dragModels/Ergun/Ergun.C \
+dragModels/WenYu/WenYu.C \
+dragModels/GidaspowErgunWenYu/GidaspowErgunWenYu.C \
+swarmCorrections/swarmCorrection/swarmCorrection.C \
+swarmCorrections/swarmCorrection/newSwarmCorrection.C \
+swarmCorrections/noSwarm/noSwarm.C \
+liftModels/liftModel/liftModel.C \
+liftModels/liftModel/newLiftModel.C \
+liftModels/noLift/noLift.C \
+heatTransferModels/heatTransferModel/heatTransferModel.C \
+heatTransferModels/heatTransferModel/newHeatTransferModel.C \
+heatTransferModels/RanzMarshall/RanzMarshall.C \
+virtualMassModels/virtualMassModel/virtualMassModel.C \
+virtualMassModels/virtualMassModel/newVirtualMassModel.C \
+virtualMassModels/noVirtualMass/noVirtualMass.C \
+wallLubricationModels/wallLubricationModel/wallLubricationModel.C \
+wallLubricationModels/wallLubricationModel/newWallLubricationModel.C \
+wallLubricationModels/noWallLubrication/noWallLubrication.C \
+turbulentDispersionModels/turbulentDispersionModel/turbulentDispersionModel.C \
+turbulentDispersionModels/turbulentDispersionModel/newTurbulentDispersionModel.C \
+turbulentDispersionModels/noTurbulentDispersion/noTurbulentDispersion.C \
+aspectRatioModels/aspectRatioModel/aspectRatioModel.C \
+aspectRatioModels/aspectRatioModel/newAspectRatioModel.C \
+aspectRatioModels/constantAspectRatio/constantAspectRatio.C \
+wallDependentModel/wallDependentModel.C 

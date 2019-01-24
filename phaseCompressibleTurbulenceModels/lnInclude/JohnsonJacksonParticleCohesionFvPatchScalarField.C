@@ -1,0 +1,1 @@
+../kineticTheoryModels/derivedFvPatchFields/JohnsonJacksonParticleCohesion/JohnsonJacksonParticleCohesionFvPatchScalarField.C

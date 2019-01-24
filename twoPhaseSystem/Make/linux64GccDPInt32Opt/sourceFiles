@@ -1,0 +1,12 @@
+SOURCE = \
+phaseModel/phaseModel.C \
+diameterModels/diameterModel/diameterModel.C \
+diameterModels/diameterModel/newDiameterModel.C \
+diameterModels/constantDiameter/constantDiameter.C \
+BlendedInterfacialModel/blendingMethods/blendingMethod/blendingMethod.C \
+BlendedInterfacialModel/blendingMethods/blendingMethod/newBlendingMethod.C \
+BlendedInterfacialModel/blendingMethods/noBlending/noBlending.C \
+phasePair/phasePairKey/phasePairKey.C \
+phasePair/phasePair/phasePair.C \
+phasePair/orderedPhasePair/orderedPhasePair.C \
+twoPhaseSystem.C 

@@ -1,0 +1,1 @@
+../kineticTheoryModels/derivedFvPatchFields/JohnsonJacksonParticleCohesionMixed/JohnsonJacksonParticleCohesionMixedFvPatchVectorField.H

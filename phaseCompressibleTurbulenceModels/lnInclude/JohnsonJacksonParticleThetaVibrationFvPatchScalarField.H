@@ -1,0 +1,1 @@
+../kineticTheoryModels/derivedFvPatchFields/JohnsonJacksonParticleThetaVibration/JohnsonJacksonParticleThetaVibrationFvPatchScalarField.H
