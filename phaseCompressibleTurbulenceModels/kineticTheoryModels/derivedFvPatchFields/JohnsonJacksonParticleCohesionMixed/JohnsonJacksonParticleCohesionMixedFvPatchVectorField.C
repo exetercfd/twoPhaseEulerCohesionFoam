@@ -181,7 +181,7 @@ void Foam::JohnsonJacksonParticleCohesionMixedFvPatchVectorField::updateCoeffs()
             phased.volScalarField::name()
         )
     );
-    
+    /*
     const fvPatchScalarField& d
     (
         patch().lookupPatchField<volScalarField, scalar>
@@ -189,7 +189,7 @@ void Foam::JohnsonJacksonParticleCohesionMixedFvPatchVectorField::updateCoeffs()
             phased.volScalarField::name()
         )
     );
-    
+    */
     const fvPatchScalarField& gs0
     (
         patch().lookupPatchField<volScalarField, scalar>
@@ -232,6 +232,7 @@ void Foam::JohnsonJacksonParticleCohesionMixedFvPatchVectorField::updateCoeffs()
         )
     );
     */
+   /*
     const fvPatchScalarField& uTerminal
     (
         patch().lookupPatchField<volScalarField, scalar>
@@ -239,7 +240,7 @@ void Foam::JohnsonJacksonParticleCohesionMixedFvPatchVectorField::updateCoeffs()
             IOobject::groupName("uTerminal", phased.name())
         )
     );
-    
+    */
     dimensionedScalar cohesionFactor
     (
         "cohesionFactor",
